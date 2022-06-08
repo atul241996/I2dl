@@ -1,6 +1,8 @@
 # Introduction to Deep Learning (IN2346)
 # Technical University Munich - SS 2020
 
+
+https://github.com/denizetkar/i2dl_exercises
 ## 1. Python Setup
 
 Prerequisites:
