@@ -1,0 +1,81 @@
+Loss: 1.4142807520419676, {'activation': 1, 'hidden_size': 210, 'learning_rate': 0.0025452020258061097, 'lr_decay': 0.692237087429833, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 1.4161318851688078, {'activation': 1, 'hidden_size': 210, 'learning_rate': 0.001380897460702405, 'lr_decay': 0.7906956370489616, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 1.416699515440831, {'activation': 1, 'hidden_size': 250, 'learning_rate': 0.002347900469987053, 'lr_decay': 0.7164724558899489, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 1.4180057967146336, {'activation': 1, 'hidden_size': 210, 'learning_rate': 0.0017323107687892201, 'lr_decay': 0.796454209993597, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 1.4188004722654315, {'activation': 1, 'hidden_size': 210, 'learning_rate': 0.0017323107687892201, 'lr_decay': 0.7885016728160945, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 1.4197633675448198, {'activation': 1, 'hidden_size': 210, 'learning_rate': 0.0007978633279129699, 'lr_decay': 0.8608913601310778, 'num_layer': 3, 'reg': 1.0692294350724225e-05}
+Loss: 1.4199499515857734, {'activation': 1, 'hidden_size': 250, 'learning_rate': 0.001380897460702405, 'lr_decay': 0.8608913601310778, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 1.419954014900706, {'activation': 1, 'hidden_size': 210, 'learning_rate': 0.00070550861648649, 'lr_decay': 0.8608913601310778, 'num_layer': 3, 'reg': 1.0692294350724225e-05}
+Loss: 1.4207401790956764, {'activation': 1, 'hidden_size': 250, 'learning_rate': 0.0014809352632732483, 'lr_decay': 0.8042000464599305, 'num_layer': 3, 'reg': 1.0692294350724225e-05}
+Loss: 1.4222103706850955, {'activation': 1, 'hidden_size': 210, 'learning_rate': 0.0017323107687892201, 'lr_decay': 0.6925703171521337, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 1.4237247681519563, {'activation': 1, 'hidden_size': 250, 'learning_rate': 0.0010235916668701907, 'lr_decay': 0.8608913601310778, 'num_layer': 3, 'reg': 1.0692294350724225e-05}
+Loss: 1.424302695041411, {'activation': 1, 'hidden_size': 250, 'learning_rate': 0.0005940165905617648, 'lr_decay': 0.8608913601310778, 'num_layer': 3, 'reg': 1.0692294350724225e-05}
+Loss: 1.4252915160787012, {'activation': 1, 'hidden_size': 210, 'learning_rate': 0.0005675195919575577, 'lr_decay': 0.8608913601310778, 'num_layer': 3, 'reg': 1.0692294350724225e-05}
+Loss: 1.4253711801919058, {'activation': 1, 'hidden_size': 250, 'learning_rate': 0.0005860161258905465, 'lr_decay': 0.8608913601310778, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 1.427755449858677, {'activation': 1, 'hidden_size': 230, 'learning_rate': 0.0005860161258905465, 'lr_decay': 0.869913301465258, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 1.4280183617704667, {'activation': 1, 'hidden_size': 250, 'learning_rate': 0.0009551052411993295, 'lr_decay': 0.8608913601310778, 'num_layer': 3, 'reg': 1.0692294350724225e-05}
+Loss: 1.4301534193514052, {'activation': 1, 'hidden_size': 250, 'learning_rate': 0.0016404767945239003, 'lr_decay': 0.8608913601310778, 'num_layer': 3, 'reg': 1.0692294350724225e-05}
+Loss: 1.433034708261034, {'activation': 1, 'hidden_size': 210, 'learning_rate': 0.0007229557064355751, 'lr_decay': 0.9576858563359382, 'num_layer': 3, 'reg': 1.2134808935539213e-05}
+Loss: 1.4331746352034214, {'activation': 1, 'hidden_size': 240, 'learning_rate': 0.0018818828562592628, 'lr_decay': 0.7909907130302488, 'num_layer': 3, 'reg': 3.203657499066662e-05}
+Loss: 1.433696554186414, {'activation': 1, 'hidden_size': 240, 'learning_rate': 0.0019902696202441545, 'lr_decay': 0.8289877006011535, 'num_layer': 3, 'reg': 2.2947800580468403e-05}
+Loss: 1.4339447915672683, {'activation': 1, 'hidden_size': 210, 'learning_rate': 0.0007978633279129699, 'lr_decay': 0.7731543009685512, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 1.4437031758348566, {'activation': 1, 'hidden_size': 200, 'learning_rate': 0.0005687026629940362, 'lr_decay': 0.9227678779184699, 'num_layer': 3, 'reg': 4.502309136014584e-05}
+Loss: 1.4503889863215504, {'activation': 1, 'hidden_size': 190, 'learning_rate': 0.000572825765115841, 'lr_decay': 0.9002872825893979, 'num_layer': 3, 'reg': 0.00019778684625347198}
+Loss: 1.4523805164881118, {'activation': 1, 'hidden_size': 220, 'learning_rate': 0.0004838632110860523, 'lr_decay': 0.8124406292000038, 'num_layer': 3, 'reg': 1.248609927837572e-05}
+Loss: 1.4534184757601447, {'activation': 1, 'hidden_size': 250, 'learning_rate': 0.002834126595073993, 'lr_decay': 0.869913301465258, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 1.4562789112603245, {'activation': 1, 'hidden_size': 210, 'learning_rate': 0.0053315207359120285, 'lr_decay': 0.7255068212848211, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 1.456338825917756, {'activation': 1, 'hidden_size': 210, 'learning_rate': 0.0002997494242024352, 'lr_decay': 0.8608913601310778, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 1.4589012785347015, {'activation': 1, 'hidden_size': 220, 'learning_rate': 0.0007191043340213826, 'lr_decay': 0.8814754291409762, 'num_layer': 3, 'reg': 0.0001983799612476979}
+Loss: 1.4621670286759214, {'activation': 1, 'hidden_size': 190, 'learning_rate': 0.0010308522023766487, 'lr_decay': 0.9737817027113271, 'num_layer': 3, 'reg': 4.2928957525285806e-05}
+Loss: 1.4646251819282772, {'activation': 1, 'hidden_size': 210, 'learning_rate': 0.0006113698971127735, 'lr_decay': 0.8967446724072377, 'num_layer': 3, 'reg': 0.0003192492037694761}
+Loss: 1.4688879864510815, {'activation': 1, 'hidden_size': 210, 'learning_rate': 0.004122883329172527, 'lr_decay': 0.8608913601310778, 'num_layer': 3, 'reg': 1.0692294350724225e-05}
+Loss: 1.5213554929566093, {'activation': 0, 'hidden_size': 70, 'learning_rate': 0.003327146817969964, 'lr_decay': 0.5977105203989832, 'num_layer': 3, 'reg': 0.00010419100538798431}
+Loss: 1.5355362607538494, {'activation': 1, 'hidden_size': 210, 'learning_rate': 0.009442352398534479, 'lr_decay': 0.8608913601310778, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 1.5587240946531513, {'activation': 1, 'hidden_size': 230, 'learning_rate': 0.00016700528433063024, 'lr_decay': 0.8608913601310778, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 1.5612103838528768, {'activation': 1, 'hidden_size': 240, 'learning_rate': 0.008823234538766317, 'lr_decay': 0.8762053984113578, 'num_layer': 3, 'reg': 1.0629736533814996e-05}
+Loss: 1.5723685209832705, {'activation': 1, 'hidden_size': 50, 'learning_rate': 0.00033426667055840145, 'lr_decay': 0.9289981033383292, 'num_layer': 3, 'reg': 0.0006562982827763977}
+Loss: 1.576838331684413, {'activation': 1, 'hidden_size': 250, 'learning_rate': 0.0001416038921624448, 'lr_decay': 0.8608913601310778, 'num_layer': 3, 'reg': 1.036048385780087e-05}
+Loss: 2.2050223707522707, {'activation': 1, 'hidden_size': 140, 'learning_rate': 3.369468605378966e-05, 'lr_decay': 0.7448832073513747, 'num_layer': 3, 'reg': 0.001149155613547928}
+Loss: 2.302580934546538, {'activation': 1, 'hidden_size': 160, 'learning_rate': 0.0012207095476289942, 'lr_decay': 0.9899969959290573, 'num_layer': 4, 'reg': 3.827909721112939e-05}
+Loss: 2.302581702125154, {'activation': 0, 'hidden_size': 200, 'learning_rate': 0.0001887532886010582, 'lr_decay': 0.7305919661695667, 'num_layer': 3, 'reg': 0.02351706776044836}
+Loss: 2.302581931047129, {'activation': 1, 'hidden_size': 70, 'learning_rate': 1.8312686806208002e-05, 'lr_decay': 0.986366427163887, 'num_layer': 5, 'reg': 0.0036478398098599035}
+Loss: 2.3025880869180346, {'activation': 0, 'hidden_size': 130, 'learning_rate': 0.002924609782789592, 'lr_decay': 0.6505572809759126, 'num_layer': 5, 'reg': 0.006324430610419641}
+Loss: 2.3025901587741218, {'activation': 0, 'hidden_size': 50, 'learning_rate': 0.0014600893202974911, 'lr_decay': 0.58188544621231, 'num_layer': 5, 'reg': 0.09643324792726653}
+Loss: 2.3025907405772994, {'activation': 1, 'hidden_size': 140, 'learning_rate': 2.8565238657986062e-05, 'lr_decay': 0.7037876601464557, 'num_layer': 4, 'reg': 1.4941794187427522e-05}
+Loss: 2.3025921327726318, {'activation': 0, 'hidden_size': 70, 'learning_rate': 0.0024878735954492605, 'lr_decay': 0.5156913933982317, 'num_layer': 4, 'reg': 0.00010451094399222217}
+Loss: 2.3025926087578132, {'activation': 0, 'hidden_size': 230, 'learning_rate': 0.00020422492553123892, 'lr_decay': 0.6090687018591583, 'num_layer': 4, 'reg': 1.4844942250593461e-05}
+Loss: 2.3026724584612737, {'activation': 1, 'hidden_size': 120, 'learning_rate': 4.1238288722271894e-05, 'lr_decay': 0.8422084621284402, 'num_layer': 4, 'reg': 0.0003051270075659692}
+Loss: 2.3031767300168613, {'activation': 0, 'hidden_size': 150, 'learning_rate': 1.9170645775439417e-05, 'lr_decay': 0.7371730448246009, 'num_layer': 3, 'reg': 0.010728672706534536}
+Loss: 2.3033108833695715, {'activation': 0, 'hidden_size': 90, 'learning_rate': 1.91583552104354e-05, 'lr_decay': 0.5478464611233265, 'num_layer': 5, 'reg': 0.003370902977506034}
+Loss: 2.3035926737169445, {'activation': 0, 'hidden_size': 160, 'learning_rate': 2.035299904226878e-05, 'lr_decay': 0.581454224618375, 'num_layer': 4, 'reg': 0.21714499048856675}
+
+
+(Epoch 1 / 30) train loss: 2.302592; val loss: 2.302592
+(Epoch 2 / 30) train loss: 1.903334; val loss: 1.714962
+(Epoch 3 / 30) train loss: 1.584360; val loss: 1.575603
+(Epoch 4 / 30) train loss: 1.435593; val loss: 1.489066
+(Epoch 5 / 30) train loss: 1.321558; val loss: 1.450780
+(Epoch 6 / 30) train loss: 1.240050; val loss: 1.446498
+(Epoch 7 / 30) train loss: 1.174380; val loss: 1.420755
+(Epoch 8 / 30) train loss: 1.124532; val loss: 1.416589
+(Epoch 9 / 30) train loss: 1.087356; val loss: 1.418305
+(Epoch 10 / 30) train loss: 1.061244; val loss: 1.415693
+(Epoch 11 / 30) train loss: 1.042284; val loss: 1.414281
+(Epoch 12 / 30) train loss: 1.029269; val loss: 1.416136
+(Epoch 13 / 30) train loss: 1.020077; val loss: 1.415960
+(Epoch 14 / 30) train loss: 1.013136; val loss: 1.414904
+(Epoch 15 / 30) train loss: 1.009192; val loss: 1.416978
+(Epoch 16 / 30) train loss: 1.005846; val loss: 1.415792
+Stopping early at epoch 15!
+
+
+best_results = sorted([t['result'] for t in trials.trials if 'loss' in t['result']], key=lambda x:x['loss'])
+best_configs = [r['config'] for r in best_results]
+for cfg in best_configs:
+    if 'loss_func' in cfg:
+        del cfg['loss_func']
+    if isinstance(cfg['activation'], Relu):
+        cfg['activation'] = 0
+    elif isinstance(cfg['activation'], LeakyRelu):
+        cfg['activation'] = 1
+print('\n'.join(['Loss: %s, %s' % (str(r['loss']), str(cfg)) for r, cfg in zip(best_results, best_configs)]))
